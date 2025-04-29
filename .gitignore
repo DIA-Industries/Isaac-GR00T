@@ -34,7 +34,7 @@ pip-wheel-metadata/
 # dev tools
 
 .envrc
-.python-version
+# .python-version
 .idea
 .venv/
 .vscode/
